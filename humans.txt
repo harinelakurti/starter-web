@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+  Hoi, I am modifying file before REBASE
+
 # TEAM
 
     <name> -- HariBabu Nelakurthi -- <twitter>
@@ -17,5 +19,6 @@
     HTML5, CSS3,Angular
     jQuery, Modernizr, AJAX
     Docker, Java Programming
->>>>>>> develop
+
+
 
