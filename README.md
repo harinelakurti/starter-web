@@ -10,6 +10,7 @@ This is GIT Project, which we are using as Sample project
 ## GIT & GITHUB Training
 
 This is the famous and one of the best training course of DevOps
+Adding GIT reabse lectures and GIT advance part
 
 ## Contribution
 Fork and repor for the review
@@ -19,4 +20,5 @@ Fork and repor for the review
 This is GIT Comparisions lecture
 
 ## GITHUB Content comparision with Repo
+
 
