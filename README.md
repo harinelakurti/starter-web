@@ -12,6 +12,7 @@ This is GIT Project, which we are using as Sample project
 This is the famous and one of the best training course of DevOps
 Adding GIT reabse lectures and GIT advance part
 We have done so much of work together
+Practise makes everything perfect
 
 ## Contribution
 Fork and repor for the review
