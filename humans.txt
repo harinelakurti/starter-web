@@ -5,7 +5,7 @@
 
     <name> -- HariBabu Nelakurthi -- <twitter>
     hari.nelakurti@gmail.com
-    DevOps engineer
+    
 
 
 # THANKS
@@ -15,6 +15,7 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3,Angular
-    jQuery, Modernizr, AWS,ML, GCP
-
+    jQuery, Modernizr, AJAX
+    Docker, Java Programming
+>>>>>>> develop
 
