@@ -4,6 +4,8 @@
 # TEAM
 
     <name> -- HariBabu Nelakurthi -- <twitter>
+    hari.nelakurti@gmail.com
+    DevOps engineer
 
 # THANKS
 
