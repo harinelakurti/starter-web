@@ -7,6 +7,7 @@
     hari.nelakurti@gmail.com
     DevOps engineer
 
+
 # THANKS
 
     <name>
@@ -14,6 +15,6 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3,Angular
-    jQuery, Modernizr, AJAX
+    jQuery, Modernizr, AWS,ML, GCP
 
 
