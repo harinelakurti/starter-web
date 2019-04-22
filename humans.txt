@@ -7,12 +7,14 @@
 
     <name> -- HariBabu Nelakurthi -- <twitter>
     hari.nelakurti@gmail.com
-    
+    DevOps engineer
+    CN Rail
 
 
 # THANKS
 
     Thanks to all trainers
+    
 
 # TECHNOLOGY COLOPHON
 
