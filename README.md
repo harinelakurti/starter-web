@@ -20,7 +20,6 @@ Fork and repor for the review
 ## GIT Comparisons 
 
 This is GIT Comparisions lecture
-
+Adding new lectures of GIT 
 ## GITHUB Content comparision with Repo
-
 
