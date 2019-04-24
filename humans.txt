@@ -3,6 +3,7 @@
 
   Hoi, I am modifying file before REBASE
   Doing some changes in local
+  Adding Impartant notes of GIT STASHING
 # TEAM
 
     <name> -- HariBabu Nelakurthi -- <twitter>
